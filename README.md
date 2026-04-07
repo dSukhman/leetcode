@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 2
+* **Total Problems Solved:** 3
 * **Language:** Python
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -33,6 +33,7 @@ Each problem folder contains:
 | ---- | --------------- | ---------- | --------------------------------------- |
 | 0001 | Two Sum         | Easy       | [Link](problems/0001-two-sum/)         |
 | 0002 | Add Two Numbers | Medium     | [Link](problems/0002-add-two-numbers/) |
+| 0003 | Longest Substring Without Repeating Characters | Medium | [Link](problems/0003-longest-substring-without-repeating-characters/) |
 
 *(Table will be updated as more problems are solved.)*
 
