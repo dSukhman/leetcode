@@ -5,8 +5,8 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 3
-* **Language:** Python
+* **Total Problems Solved:** 4
+* **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
 ## Repository Structure
@@ -34,6 +34,8 @@ Each problem folder contains:
 | 0001 | Two Sum         | Easy       | [Link](problems/0001-two-sum/)         |
 | 0002 | Add Two Numbers | Medium     | [Link](problems/0002-add-two-numbers/) |
 | 0003 | Longest Substring Without Repeating Characters | Medium | [Link](problems/0003-longest-substring-without-repeating-characters/) |
+| 0004 | Median of Two Sorted Arrays | Hard | [Link](problems/0004-median-of-two-sorted-arrays/) |
+
 
 *(Table will be updated as more problems are solved.)*
 
