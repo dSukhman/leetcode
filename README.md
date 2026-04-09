@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 4
+* **Total Problems Solved:** 5
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -35,6 +35,8 @@ Each problem folder contains:
 | 0002 | Add Two Numbers | Medium     | [Link](problems/0002-add-two-numbers/) |
 | 0003 | Longest Substring Without Repeating Characters | Medium | [Link](problems/0003-longest-substring-without-repeating-characters/) |
 | 0004 | Median of Two Sorted Arrays | Hard | [Link](problems/0004-median-of-two-sorted-arrays/) |
+| 0005 | Longest Palindromic Substring | Medium | [Link](problems/0005-longest-palindromic-substring/) |
+
 
 
 *(Table will be updated as more problems are solved.)*
