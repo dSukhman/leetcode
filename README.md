@@ -38,6 +38,7 @@ Each problem folder contains:
 | 0005 | Longest Palindromic Substring | Medium | [Link](problems/0005-longest-palindromic-substring/) |
 | 0006 | Zigzag Conversion | Medium | [Link](problems/0006-zigzag-conversion/) |
 | 0007 | Reverse Integer | Medium | [Link](problems/0007-reverse-integer/) |
+| 0008 | String to Integer | Medium | [Link](problems/0008-string-to-integer-atoi/) |
 
 *(Table will be updated as more problems are solved.)*
 
