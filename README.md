@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 7
+* **Total Problems Solved:** 9
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -39,6 +39,7 @@ Each problem folder contains:
 | 0006 | Zigzag Conversion | Medium | [Link](problems/0006-zigzag-conversion/) |
 | 0007 | Reverse Integer | Medium | [Link](problems/0007-reverse-integer/) |
 | 0008 | String to Integer | Medium | [Link](problems/0008-string-to-integer-atoi/) |
+| 0009 | Palindrome Number | Medium | [Link](problems/0009-palindrome-number/) |
 
 *(Table will be updated as more problems are solved.)*
 
