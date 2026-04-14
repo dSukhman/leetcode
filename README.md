@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 11
+* **Total Problems Solved:** 12
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -42,6 +42,7 @@ Each problem folder contains:
 | 0009 | Palindrome Number | Medium | [Link](problems/0009-palindrome-number/) |
 | 0010 | Regular Expression Matching | Hard | [Link](problems/0010-regular-expression-matching/) |
 | 0011 | Container With Most Water | Medium | [Link](problems/0011-container-with-most-water/) |
+| 0012 | Integer to Roman | Medium | [Link](problems/0012-integer-to-roman/) |
 
 *(Table will be updated as more problems are solved.)*
 
