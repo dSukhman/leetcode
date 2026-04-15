@@ -5,11 +5,11 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 13
+* **Total Problems Solved:** 14
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
-## Repository Structure
+## Repository Structures
 
 ```
 leetcode/
@@ -44,6 +44,7 @@ Each problem folder contains:
 | 0011 | Container With Most Water | Medium | [Link](problems/0011-container-with-most-water/) |
 | 0012 | Integer to Roman | Medium | [Link](problems/0012-integer-to-roman/) |
 | 0013 | Roman to Integer | Easy | [Link](problems/0013-roman-to-integer/) |
+| 0014 | Longest Common Prefix | Easy | [Link](problems/0014-longest-common-prefix/) |
 
 *(Table will be updated as more problems are solved.)*
 
