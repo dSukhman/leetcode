@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 15
+* **Total Problems Solved:** 16
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -46,6 +46,7 @@ Each problem folder contains:
 | 0013 | Roman to Integer | Easy | [Link](problems/0013-roman-to-integer/) |
 | 0014 | Longest Common Prefix | Easy | [Link](problems/0014-longest-common-prefix/) |
 | 0015 | 3Sum | Medium | [Link](problems/0015-3sum/) |
+| 0016 | 3Sum Closest | Medium | [Link](problems/0016-3sum-closest/) |
 
 *(Table will be updated as more problems are solved.)*
 
