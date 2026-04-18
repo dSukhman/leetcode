@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 16
+* **Total Problems Solved:** 17
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -47,6 +47,7 @@ Each problem folder contains:
 | 0014 | Longest Common Prefix | Easy | [Link](problems/0014-longest-common-prefix/) |
 | 0015 | 3Sum | Medium | [Link](problems/0015-3sum/) |
 | 0016 | 3Sum Closest | Medium | [Link](problems/0016-3sum-closest/) |
+| 0017 | Letter Combinations of a Phone Number | Medium | [Link](problems/0017-letter-combinations-of-a-phone-number/) |
 
 *(Table will be updated as more problems are solved.)*
 
