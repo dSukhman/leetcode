@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 19
+* **Total Problems Solved:** 20
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -50,6 +50,7 @@ Each problem folder contains:
 | 0017 | Letter Combinations of a Phone Number | Medium | [Link](problems/0017-letter-combinations-of-a-phone-number/) |
 | 0018 | 4Sum | Medium | [Link](problems/0018-4sum/) |
 | 0019 | Remove Nth Node From End of List | Medium | [Link](problems/0019-remove-nth-node-from-end-of-list/) |
+| 0020 | Valid Parentheses | Easy | [Link](problems/0020-valid-parentheses/) |
 
 *(Table will be updated as more problems are solved.)*
 
