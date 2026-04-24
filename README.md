@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 21
+* **Total Problems Solved:** 22
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -52,6 +52,7 @@ Each problem folder contains:
 | 0019 | Remove Nth Node From End of List | Medium | [Link](problems/0019-remove-nth-node-from-end-of-list/) |
 | 0020 | Valid Parentheses | Easy | [Link](problems/0020-valid-parentheses/) |
 | 0021 | Merge Two Sorted Lists | Easy | [Link](problems/0021-merge-two-sorted-lists/) |
+| 0022 | Generate Parentheses | Medium | [Link](problems/0022-generate-parentheses/) |
 
 *(Table will be updated as more problems are solved.)*
 
