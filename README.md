@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 23
+* **Total Problems Solved:** 24
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -54,6 +54,7 @@ Each problem folder contains:
 | 0021 | Merge Two Sorted Lists | Easy | [Link](problems/0021-merge-two-sorted-lists/) |
 | 0022 | Generate Parentheses | Medium | [Link](problems/0022-generate-parentheses/) |
 | 0023 | Merge k Sorted Lists | Hard | [Link](problems/0023-merge-k-sorted-lists/) |
+| 0024 | Swap Nodes in Pairs | Medium | [Link](problems/0024-swap-nodes-in-pairs/) |
 
 *(Table will be updated as more problems are solved.)*
 
