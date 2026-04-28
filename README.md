@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 25
+* **Total Problems Solved:** 26
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -56,6 +56,7 @@ Each problem folder contains:
 | 0023 | Merge k Sorted Lists | Hard | [Link](problems/0023-merge-k-sorted-lists/) |
 | 0024 | Swap Nodes in Pairs | Medium | [Link](problems/0024-swap-nodes-in-pairs/) |
 | 0025 | Reverse Nodes in k-Group | Hard | [Link](problems/0025-reverse-nodes-in-k-group/) |
+| 0026 | Remove Duplicates from Sorted Array | Easy | [Link](problems/0026-remove-duplicates-from-sorted-array/) |
 
 *(Table will be updated as more problems are solved.)*
 
