@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 28
+* **Total Problems Solved:** 29
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -59,6 +59,7 @@ Each problem folder contains:
 | 0026 | Remove Duplicates from Sorted Array | Easy | [Link](problems/0026-remove-duplicates-from-sorted-array/) |
 | 0027 | Remove Element | Easy | [Link](problems/0027-remove-element/) |
 | 0028 | Find the Index of the First Occurrence in a String | Easy | [Link](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
+| 0029 | Divide Two Integers | Medium | [Link](problems/0029-divide-two-integers/) |
 
 *(Table will be updated as more problems are solved.)*
 
