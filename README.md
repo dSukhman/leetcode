@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 30
+* **Total Problems Solved:** 31
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -61,6 +61,7 @@ Each problem folder contains:
 | 0028 | Find the Index of the First Occurrence in a String | Easy | [Link](problems/0028-find-the-index-of-the-first-occurrence-in-a-string/) |
 | 0029 | Divide Two Integers | Medium | [Link](problems/0029-divide-two-integers/) |
 | 0030 | Substring with Concatenation of All Words | Hard | [Link](problems/0030-substring-with-concatenation-of-all-words/) |
+| 0031 | Next Permutation | Medium | [Link](problems/0031-next-permutation/) |
 
 *(Table will be updated as more problems are solved.)*
 
