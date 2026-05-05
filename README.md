@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 31
+* **Total Problems Solved:** 32
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -62,6 +62,7 @@ Each problem folder contains:
 | 0029 | Divide Two Integers | Medium | [Link](problems/0029-divide-two-integers/) |
 | 0030 | Substring with Concatenation of All Words | Hard | [Link](problems/0030-substring-with-concatenation-of-all-words/) |
 | 0031 | Next Permutation | Medium | [Link](problems/0031-next-permutation/) |
+| 0032 | Longest Valid Parentheses | Hard | [Link](problems/0032-longest-valid-parentheses/) |
 
 *(Table will be updated as more problems are solved.)*
 
