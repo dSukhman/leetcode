@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 32
+* **Total Problems Solved:** 33
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -63,6 +63,7 @@ Each problem folder contains:
 | 0030 | Substring with Concatenation of All Words | Hard | [Link](problems/0030-substring-with-concatenation-of-all-words/) |
 | 0031 | Next Permutation | Medium | [Link](problems/0031-next-permutation/) |
 | 0032 | Longest Valid Parentheses | Hard | [Link](problems/0032-longest-valid-parentheses/) |
+| 0033 | Search in Rotated Sorted Array | Medium | [Link](problems/0033-search-in-rotated-sorted-array/) |
 
 *(Table will be updated as more problems are solved.)*
 
