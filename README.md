@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 36
+* **Total Problems Solved:** 37
 * **Language:** Python, Java
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -67,6 +67,7 @@ Each problem folder contains:
 | 0034 | Find First and Last Position of Element in Sorted Array | Medium | [Link](problems/0034-find-first-and-last-position-of-element-in-sorted-array/) |
 | 0035 | Search Insert Position | Easy | [Link](problems/0035-search-insert-position/) |
 | 0036 | Valid Sudoku | Medium | [Link](problems/0036-valid-sudoku/) |
+| 0037 | Sudoku Solver | Hard | [Link](problems/0037-sudoku-solver/) |
 
 *(Table will be updated as more problems are solved.)*
 
