@@ -5,8 +5,8 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 37
-* **Language:** Python, Java
+* **Total Problems Solved:** 38
+* **Language:** Python, Java, C
 * **Platform:** [LeetCode](https://leetcode.com/)
 
 ## Repository Structures
@@ -68,6 +68,7 @@ Each problem folder contains:
 | 0035 | Search Insert Position | Easy | [Link](problems/0035-search-insert-position/) |
 | 0036 | Valid Sudoku | Medium | [Link](problems/0036-valid-sudoku/) |
 | 0037 | Sudoku Solver | Hard | [Link](problems/0037-sudoku-solver/) |
+| 0038 | Count and Say | Medium | [Link](problems/0038-count-and-say/) |
 
 *(Table will be updated as more problems are solved.)*
 
