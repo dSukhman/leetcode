@@ -5,7 +5,7 @@ Problems are organized by problem number and title for easy navigation.
 
 ## Progress
 
-* **Total Problems Solved:** 38
+* **Total Problems Solved:** 39
 * **Language:** Python, Java, C
 * **Platform:** [LeetCode](https://leetcode.com/)
 
@@ -69,6 +69,7 @@ Each problem folder contains:
 | 0036 | Valid Sudoku | Medium | [Link](problems/0036-valid-sudoku/) |
 | 0037 | Sudoku Solver | Hard | [Link](problems/0037-sudoku-solver/) |
 | 0038 | Count and Say | Medium | [Link](problems/0038-count-and-say/) |
+| 0039 | Combination Sum | Medium | [Link](problems/0039-combination-sum/) |
 
 *(Table will be updated as more problems are solved.)*
 
